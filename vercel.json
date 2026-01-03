@@ -1,0 +1,48 @@
+{
+    "rewrites": [
+        {
+            "source": "/api/auth-(.*)",
+            "destination": "/api/auth"
+        },
+        {
+            "source": "/api/user-data",
+            "destination": "/api/data"
+        },
+        {
+            "source": "/api/update-user-data",
+            "destination": "/api/data"
+        },
+        {
+            "source": "/api/resolve-friend-code",
+            "destination": "/api/social"
+        },
+        {
+            "source": "/api/update-friends",
+            "destination": "/api/social"
+        },
+        {
+            "source": "/api/leaderboard",
+            "destination": "/api/social"
+        },
+        {
+            "source": "/api/finz-chat",
+            "destination": "/api/ai"
+        },
+        {
+            "source": "/api/finz-advice",
+            "destination": "/api/ai"
+        },
+        {
+            "source": "/api/finz",
+            "destination": "/api/ai"
+        },
+        {
+            "source": "/api/(.*)",
+            "destination": "/api/$1"
+        },
+        {
+            "source": "/(.*)",
+            "destination": "/index.html"
+        }
+    ]
+}
