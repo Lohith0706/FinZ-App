@@ -1,6 +1,6 @@
 # 🚀 FinFlex: Your Financial Wingman (Gen Z Edition)
 
-**FinFlex** isn't just another boring expense tracker. It’s a hyper-personalized financial companion designed for the hustle, the splurges, and the big goals. Built with a sleek glassmorphic UI and powered by AI, FinZ helps Indian students and creators master their money without the stress.
+**FinFlex** isn't just another boring expense tracker. It’s a hyper-personalized financial companion designed for the hustle, the splurges, and the big goals. Built with a sleek glassmorphic UI and powered by AI, FinFlex helps students and creators master their money without the stress.
 
 ---
 
