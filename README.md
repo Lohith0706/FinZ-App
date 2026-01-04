@@ -23,7 +23,7 @@
 
 ### 🚀 Quick Start
 
-1.  **Clone it**: `git clone https://github.com/yourusername/FinZ`
+1.  **Clone it**: `git clone https://github.com/yourusername/FinFlex`
 2.  **Environment Setup**: Copy `.env.example` to `.env.local` and add your `REDIS_URL` and `AI_API_KEYS`.
 3.  **Run it**: `npm run dev`
 4.  **Go Live**: `npm run deploy` (Vercel ready!)
